@@ -1,6 +1,6 @@
 # Java Mail Client-Server Application
 
-This repository contains a **Java-based email application** developed as part of the *Programming 3* course.
+Java-based email application developed as part of the *Programming 3* course.
 
 The system follows a **client-server architecture** and supports concurrent communication between multiple clients using **sockets and multithreading**, with a graphical user interface implemented in **JavaFX**.
 
